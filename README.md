@@ -50,7 +50,7 @@ Large rotations request scene content that may not exist in the source image.
 Use perspective-consistent middle and end references for rotations above about
 45 degrees.
 
-## Support
+## Support development
 
 Development support is available through
 [GitHub Sponsors](https://github.com/sponsors/thepororo). Sponsorship is
