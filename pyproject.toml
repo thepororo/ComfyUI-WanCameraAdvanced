@@ -17,5 +17,5 @@ Documentation = "https://github.com/thepororo/ComfyUI-WanCameraAdvanced#readme"
 "Bug Tracker" = "https://github.com/thepororo/ComfyUI-WanCameraAdvanced/issues"
 
 [tool.comfy]
-PublisherId = "thepororo"
+PublisherId = "y4236512"
 DisplayName = "Wan Camera Advanced"
