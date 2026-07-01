@@ -1,0 +1,21 @@
+[project]
+name = "wan-camera-advanced"
+version = "0.1.0"
+description = "Native-compatible 6DoF camera paths, chaining, visualization, and multi-frame reference conditioning for ComfyUI Wan video workflows"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Multimedia :: Video",
+]
+
+[project.urls]
+Repository = "https://github.com/thepororo/ComfyUI-WanCameraAdvanced"
+Documentation = "https://github.com/thepororo/ComfyUI-WanCameraAdvanced#readme"
+"Bug Tracker" = "https://github.com/thepororo/ComfyUI-WanCameraAdvanced/issues"
+
+[tool.comfy]
+PublisherId = "thepororo"
+DisplayName = "Wan Camera Advanced"

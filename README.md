@@ -1,5 +1,9 @@
 # Wan Camera Embedding Advanced
 
+[![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom%20Node-2b2b2b)](https://www.comfy.org/)
+[![Wan Video](https://img.shields.io/badge/Wan-Video%20Camera%20Control-5c6ac4)](https://docs.comfy.org/tutorials/video/wan/fun-camera)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 An extended Wan camera embedding node with independent translation and
 rotation controls.
 
@@ -60,3 +64,10 @@ attempting rotations above roughly 45 degrees.
 ## License
 
 GPL-3.0
+
+## Development
+
+Designed and maintained by
+[`thepororo`](https://github.com/thepororo), with implementation assistance
+from OpenAI Codex. AI-assisted changes are reviewed and validated locally
+before publication.
