@@ -3,6 +3,15 @@
 Wan Camera Advanced is free, open-source software. Sponsorship is optional and
 never required to install, run, or update the nodes.
 
+## About the maintainer
+
+I am a South Korea-based, self-taught independent developer whose formal
+education ended with high school. I currently maintain this project without
+institutional or corporate backing and without a stable income from software
+development. Sponsorship gives me more time to test releases, investigate
+compatibility issues, and turn experiments into documented tools that remain
+freely available to the ComfyUI community.
+
 ## Sponsor development
 
 You can sponsor ongoing maintenance through
@@ -39,6 +48,14 @@ specific delivery date.
 
 Wan Camera Advanced는 무료 오픈소스 소프트웨어입니다. 후원하지 않아도
 모든 노드를 설치하고 실행하고 업데이트할 수 있습니다.
+
+## 개발자 소개
+
+저는 한국에서 활동하는 고졸 독학 개발자입니다. 현재 기관이나 회사의 지원,
+안정적인 개발 수입 없이 이 프로젝트를 독립적으로 유지하고 있습니다. 후원은
+새 버전을 테스트하고 호환성 문제를 조사하며, 실험 단계의 결과물을 누구나
+무료로 사용할 수 있는 문서화된 도구로 발전시키는 시간을 확보하는 데 직접
+도움이 됩니다.
 
 ## 개발 후원
 
